@@ -60,3 +60,5 @@ celsius_farenheit <- function(x, is.celsius){
   
 }
 
+# Ejercicio: crea un vector con 100 medias de una distribución normal de tamaño
+#{1,2,...,100}
